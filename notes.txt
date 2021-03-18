@@ -12,7 +12,7 @@ and the following media query returns the content when the device's height is mo
 
 Remember, the CSS inside the media query is applied only if the media type matches that of the device being used.
 
-
+a
 
 Making image responsive:
 
