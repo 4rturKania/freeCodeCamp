@@ -1,7 +1,15 @@
-#main {}
-#title {}
+#main {
+	color: #323232;
+	background-color: #f5f6f7;
+	text-align: center;
+}
+#title {margin: 0px;}
 #img-div {}
-#image {}
-#img-caption {}
-#tribute-info {}
+#image {
+	display: block;
+	margin: auto;
+	max-width:100%;
+}
+#img-caption {font-style: italic;}
+#tribute-info {white-space: pre;}
 #tribute-link {}
