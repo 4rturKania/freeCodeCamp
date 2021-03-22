@@ -1,12 +1,16 @@
 #title {
-
+	text-align: center;
 }
 
 #description {
+	text-align: center;
 
 }
 
 #survey-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
 }
 
